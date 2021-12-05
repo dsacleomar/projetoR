@@ -14,4 +14,12 @@ filter()
   #novas regras para teste de mesa
   
   
+# testano pull interligao ao R Estudio
+sumarise()
+cut()
+read()
+head()
+view()
+going()
+loading()
 
