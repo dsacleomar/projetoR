@@ -3,3 +3,12 @@
 mutate()
 rename()
 relocate()
+#segunda versão
+# funçoes a ser utilizadas no projeto
+mutate()
+relocate()
+select()
+filter()
+  rename()
+  
+
